@@ -7,6 +7,9 @@ and i used it.
 if you want to run it:
 you should dowland sqlite3-library from 
 official site
+also -- in this commit i tried to use a CMake to build my program
+and everything is work, but i had small problems with database path
+be careful
 
 program possibilities:
 - Add new Toy

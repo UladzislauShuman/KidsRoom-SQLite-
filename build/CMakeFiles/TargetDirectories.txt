@@ -1,0 +1,3 @@
+/home/vladlox/git/KidsRoom-SQLite-/build/CMakeFiles/Kids_Room.dir
+/home/vladlox/git/KidsRoom-SQLite-/build/CMakeFiles/edit_cache.dir
+/home/vladlox/git/KidsRoom-SQLite-/build/CMakeFiles/rebuild_cache.dir

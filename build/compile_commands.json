@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/main.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/main.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/main.cpp"
+},
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/Utils/Utils.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/Utils/Utils.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/Utils/Utils.cpp"
+},
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/UserInterface/userinterface.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/UserInterface/userinterface.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/UserInterface/userinterface.cpp"
+},
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/DataBase/database.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/DataBase/database.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/DataBase/database.cpp"
+},
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/Toys/Ball.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/Toys/Ball.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/Toys/Ball.cpp"
+},
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/Toys/Car.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/Toys/Car.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/Toys/Car.cpp"
+},
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/Toys/Cube.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/Toys/Cube.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/Toys/Cube.cpp"
+},
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/Toys/Doll.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/Toys/Doll.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/Toys/Doll.cpp"
+},
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/Toys/Toy.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/Toys/Toy.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/Toys/Toy.cpp"
+},
+{
+  "directory": "/home/vladlox/git/KidsRoom-SQLite-/build",
+  "command": "/usr/bin/c++  -I/home/vladlox/git/KidsRoom-SQLite-/UserInterface -I/home/vladlox/git/KidsRoom-SQLite-/DataBase -I/home/vladlox/git/KidsRoom-SQLite-/Toys -g -o CMakeFiles/Kids_Room.dir/Toys/ToysRoom.cpp.o -c /home/vladlox/git/KidsRoom-SQLite-/Toys/ToysRoom.cpp",
+  "file": "/home/vladlox/git/KidsRoom-SQLite-/Toys/ToysRoom.cpp"
+}
+]
