@@ -1,0 +1,16 @@
+Car 10 Male 3 1 medium plastic porshe sport white 0
+Car 50 Male 12 1 big plastic lamborgini sport black 1
+Car 100 Female 6 1 small metal mercedes jeep red 0
+Car 17 Male 1 1 small plastic bmw jeep green 0
+Cube 2 all 1 3 big plastic 10 Colorful 0
+Cube 5 all 1 5 small tree 200 Puzzle 1
+Cube 7 all 1 1 medium soft 1 Rainbow 0
+Cube 100 all 1 -1 large plastic 1 noColor 0
+Ball 5 all 0 2 medium plastic ping-pong 1 white
+Ball 100 all 0 -1 medium plastic football 4 rainbow
+Ball 20 all 0 -1 small plastic tennis 1 yellow
+Ball 50 all 0 -1 medium plastic volleyball 4 yellow-blue
+Doll 100 Female 12 1 medium plastic Barbi 0 1
+Doll 150 Female 12 1 medium plastic Ken 1 1
+Doll 50 Female 6 1 big plastic Baby 0 1
+Doll 20 Male 12 1 small plastic Warrior 1 1
